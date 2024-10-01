@@ -1,0 +1,16 @@
+﻿[*.cs]
+
+# CS8600: Conversão de literal nula ou possível valor nulo em tipo não anulável.
+dotnet_diagnostic.CS8600.severity = none
+
+# CS8604: Possível argumento de referência nula.
+dotnet_diagnostic.CS8604.severity = none
+
+# CS8602: Desreferência de uma referência possivelmente nula.
+dotnet_diagnostic.CS8602.severity = none
+
+# IDE1006: Estilos de Nomenclatura
+dotnet_diagnostic.IDE1006.severity = none
+
+# IDE0017: Simplificar a inicialização de objeto
+dotnet_diagnostic.IDE0017.severity = none
